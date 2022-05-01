@@ -1,3 +1,16 @@
+Changes in version 1.16.0 beta (2022-05-01):
+--------------------------------------------
+- small changes in README (rt@cfdconsultants.de)
+- Reaorganized all readme_*.txt files into markdown (rt@cfdconsultants.de)
+- made README.md real markdown syntax (rt@cfdconsultants.de)
+- renamed readme_bin.txt to README.md (rt@cfdconsultants.de)
+- added gtk3 port to configure (rt@cfdconsultants.de)
+- Remove unused DoGetClippingBox (dvertx@gmail.com)
+- Replace deprecated SetFont calls (dvertx@gmail.com)
+- Replace abs with fabs to compute absolute values of bounding box (dvertx@gmail.com)
+- Add test for wx-config existence (dvertx@gmail.com)
+- Add CMake build system (dvertx@gmail.com)
+
 Changes in version 1.15.1 beta (2015-11-24):
 --------------------------------------------
 - Fixed build on 64-bit OS with GCC 5.1.
